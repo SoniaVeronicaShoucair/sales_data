@@ -1,0 +1,8 @@
+order_date,product_name,quantity,unit_price
+2022-01-01,Product A,5,20.5
+2022-01-02,Product B,10,30.0
+2022-01-02,Product A,3,20.5
+2022-01-03,Product C,7,15.5
+2022-01-03,Product A,4,20.5
+2022-01-04,Product B,2,30.0
+2022-01-04,Product C,6,15.5
